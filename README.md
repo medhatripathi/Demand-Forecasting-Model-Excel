@@ -1,6 +1,7 @@
 # Demand-Forecasting-Model-Excel
 A time-series demand forecasting model comparing 5 forecasting methods to identify the most accurate approach for inventory planning and stockout reduction. This project analyzes 24 months of historical sales data across 3 SKUs to build and compare multiple forecasting methods. The model identifies the optimal forecasting approach based on accuracy metrics (MAPE, MAE, RMSE) and provides actionable recommendations for inventory optimization.
 ![Demand-Forecasting-Model-Excel](https://docs.google.com/spreadsheets/d/1yEuLYv1yJaH8aqIqNgTHmlxa0v6RyKHJ/edit?usp=sharing&ouid=117695434224299199084&rtpof=true&sd=true)
+
 ---
 
 ## 🛠️ Tech Stack
