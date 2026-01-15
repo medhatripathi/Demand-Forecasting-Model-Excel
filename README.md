@@ -88,7 +88,7 @@ The company needs a data-driven forecasting approach to improve inventory planni
 
 #### Visual 1: Actual vs Forecast Comparison (Line Chart)
 
-![Actual vs Forecast](screenshots/actual_vs_forecast.png)
+![Actual vs Forecast](https://github.com/medhatripathi/Demand-Forecasting-Model-Excel/blob/main/Visual1_Actual%20vs%20Forecast%20Comparison.png)
 
 - **X-axis:** Month (Jan 2023 - Dec 2024)
 - **Y-axis:** Units Sold
@@ -99,7 +99,7 @@ The company needs a data-driven forecasting approach to improve inventory planni
 
 #### Visual 2: Forecast Accuracy Comparison (Bar Chart)
 
-![Accuracy Comparison](screenshots/accuracy_comparison.png)
+![Accuracy Comparison](https://github.com/medhatripathi/Demand-Forecasting-Model-Excel/blob/main/Visual2_Forecast%20Accuracy%20Comparison.png)
 
 - **X-axis:** MAPE (%)
 - **Y-axis:** Forecasting Method
@@ -110,11 +110,13 @@ The company needs a data-driven forecasting approach to improve inventory planni
 
 #### Visual 3: KPI Summary Cards
 
+![KPI Summary Cards](https://github.com/medhatripathi/Demand-Forecasting-Model-Excel/blob/main/Visual3_KPI%20Summary%20Cards.png)
+
 | Metric | Value |
 |--------|-------|
 | Best Method | Weighted Moving Average |
 | Forecast Accuracy | 89.8% |
-| Lowest MAPE | 10.2% |
+| Lowest MAPE | 5.61% |
 | SKUs Analyzed | 3 |
 
 ---
@@ -125,7 +127,7 @@ The company needs a data-driven forecasting approach to improve inventory planni
 
 | Finding | Impact |
 |---------|--------|
-| WMA outperforms all methods | 10.2% MAPE vs 12.8% industry average |
+| WMA outperforms all methods | 5.61% MAPE vs 12.8% industry average |
 | Seasonal demand pattern detected | Nov-Dec shows 40% higher demand |
 | 6-Month MA too slow | 15.4% error - misses trend changes |
 | Exponential Smoothing reliable | 11.5% MAPE - good alternative |
