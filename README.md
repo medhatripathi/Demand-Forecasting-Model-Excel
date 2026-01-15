@@ -156,3 +156,4 @@ The company needs a data-driven forecasting approach to improve inventory planni
 | Excess Inventory | $45,000 | $28,000 |
 | Forecast Accuracy | 85% | 90% |
 | Annual Savings | - | ~$25,000 |
+
