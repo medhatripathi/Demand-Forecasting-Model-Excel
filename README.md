@@ -115,7 +115,7 @@ The company needs a data-driven forecasting approach to improve inventory planni
 | Metric | Value |
 |--------|-------|
 | Best Method | Weighted Moving Average |
-| Forecast Accuracy | 89.8% |
+| Forecast Accuracy | 94.16% |
 | Lowest MAPE | 5.61% |
 | SKUs Analyzed | 3 |
 
